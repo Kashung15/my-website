@@ -1,0 +1,28 @@
+---
+title: "Website Deployment Reflection"
+author: "Maiyaso Kashungnao, 667-382-865"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: cosmo
+---
+
+## Website Information
+
+**Live Website URL:** https://kashung15.github.io/my-website/  
+**GitHub Repository URL:** https://github.com/kashung15/my-website  
+**Project Type:** Individual Portfolio
+
+---
+
+## Reflection
+
+This project taught me how to build and deploy a professional website using R Markdown and GitHub Pages. I learned to structure a multi-page website with proper navigation in the `_site.yml` file, create content in R Markdown files, and build the site locally. The most challenging part was configuring GitHub Pages deployment, but I solved it by setting up a GitHub Actions workflow. I was surprised by how easily R Markdown generates professional-looking HTML pages. This experience gave me practical skills in web development and deployment that I can apply to future projects.
+
+---
+
+## Website Overview
+
+My portfolio website has three pages: a Home page with my introduction and skills, an About page with my background and contact information, and a Projects page showcasing two data analysis examples. The site uses the cosmo theme for professional styling and is hosted for free on GitHub Pages with fully functional navigation.
+
+---
