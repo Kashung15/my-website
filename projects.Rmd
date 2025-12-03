@@ -1,0 +1,45 @@
+---
+title: "My Projects"
+---
+
+# Portfolio Projects
+
+Here are some of my key projects demonstrating various data analysis skills.
+
+## Project 1: Government Data Analysis
+**Objective:** Analyze public datasets to extract business insights  
+**Key Skills:**
+- API data access  
+- Data quality assessment  
+- Aggregation and summarization  
+- Business recommendation development  
+
+**Technologies:** R, tidyverse, ggplot2, API integration
+
+---
+
+## Project 2: Business Performance Dashboard
+**Objective:** Clean and analyze operational data to identify performance patterns  
+**Key Skills:**
+- CSV data processing  
+- Missing data handling  
+- Data visualization  
+- Executive reporting  
+
+**Technologies:** R Markdown, dplyr, ggplot2, GitHub Pages
+
+---
+
+## Project 3: Statistical Exploration
+**Objective:** Explore relationships in real-world datasets  
+**Key Skills:**
+- Exploratory data analysis  
+- Correlation analysis  
+- Professional visualization  
+- Insight communication  
+
+**Technologies:** R, statistical analysis, data visualization
+
+---
+
+[Back to Home](index.html)
